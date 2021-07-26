@@ -1,4 +1,4 @@
-# TimeApp - iOS 14
+# TimeApp - iOS 15
 
 ## What We Will Create
 
